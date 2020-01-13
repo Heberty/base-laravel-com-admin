@@ -11,8 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('pages.index');
+Route::group(['namespace' => 'Pages'], function() {
+    Route::get('/', 'PagesController@index')->name('home');
 });
 
 Route::group(['middleware' => ['auth', 'log'], 'namespace' => 'Admin', 'prefix' => 'admin'], function () {
