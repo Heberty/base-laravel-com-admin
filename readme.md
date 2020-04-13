@@ -63,7 +63,7 @@ simbólico de acesso aos arquivos e imagens.
 	- Dentro do try você dará um require('bootstrap'); por exemplo.
 5. A estrutura do arquivos também devem seguir uma estrutura semelhante:
 - Os arquivos PHP no Laravel Blade são escritos da seguinte forma:
-	- _header.blade.php (Sem essa nomenclatura os aqruivos não serão reconhecidos.)
+	- _header.blade.php (Sem essa nomenclatura os arquivos não serão reconhecidos.)
 - A estrutura é semelhante aos dos assets:
 	- blocks
 		- _head.blade.php
