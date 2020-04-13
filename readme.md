@@ -59,7 +59,9 @@ simbólico de acesso aos arquivos e imagens.
  	- _section_slide.scss
  - app.scss (Onde todas os aquivos são importados)
  *Obs. para importar os arquivos não é necessário o underline, nem a exetenção do arquivo. Ex.: @inport "block/header";
-4. A estrutura do arquivos também devem seguir uma estrutura semelhante:
+4. Para importar uma nova biblioteca js você vai encontrar o arquivo resourses/js/bootstrap.js e incluir as bibliotecas da seguinte mandeira:
+	- Dentro do try você dará um require('bootstrap'); por exemplo.
+5. A estrutura do arquivos também devem seguir uma estrutura semelhante:
 - Os arquivos PHP no Laravel Blade são escritos da seguinte forma:
 	- _header.blade.php (Sem essa nomenclatura os aqruivos não serão reconhecidos.)
 - A estrutura é semelhante aos dos assets:
