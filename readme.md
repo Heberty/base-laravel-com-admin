@@ -80,4 +80,4 @@ simbólico de acesso aos arquivos e imagens.
 ## Autoria e contribuições
 
 - João Paulo Lopes: Back-end e DBA [lopesjpaulo](https://github.com/lopesjpaulo)
-- Heberty Carlos Silva de Oliveira [heberty](https://github.com/Heberty)
+- Heberty Carlos Silva de Oliveira: Front-end e Help Desk [heberty](https://github.com/Heberty)
