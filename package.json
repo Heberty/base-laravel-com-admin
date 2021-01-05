@@ -13,7 +13,7 @@
     "author": "Heberty Carlos",
     "license": "MIT",
     "devDependencies": {
-        "axios": "^0.19",
+        "axios": "^0.21",
         "babel-core": "^6.26.3",
         "babel-loader": "^8.0.6",
         "babel-preset-env": "^1.7.0",
